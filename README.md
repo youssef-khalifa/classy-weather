@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# Classy Weather
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Classy Weather is a sleek and modern weather application built with React. It provides users with accurate and up-to-date weather information for their location or any city around the world. The application features an elegant design and user-friendly interface for a seamless weather-checking experience.
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies](#technologies)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-### `npm start`
+## Introduction
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Classy Weather offers a sophisticated way to check weather conditions, forecast data, and more. With its focus on providing a stylish and intuitive user experience, it is designed to help users quickly access the weather information they need. The application leverages modern frontend technologies to deliver a responsive and visually appealing interface.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
 
-### `npm test`
+- **Current Weather**: View current weather conditions including temperature, humidity, and wind speed.
+- **Forecast**: Access detailed weather forecasts for the coming days.
+- **Search Functionality**: Search for weather information by city name.
+- **Responsive Design**: Enjoy a smooth and accessible experience across various devices.
+- **Weather Icons**: View weather conditions represented with attractive icons.
+- **Location Services**: Automatically detect and display weather for the user's current location.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies
 
-### `npm run build`
+Classy Weather is built using the following technologies:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **React**: JavaScript library for building user interfaces.
+- **React Router**: For managing navigation and routing within the application.
+- **Axios**: For making HTTP requests to retrieve weather data from external APIs.
+- **CSS Modules**: For scoped and modular styling of components.
+- **OpenWeatherMap API**: For fetching weather data.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Usage
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### How to Use
 
-### `npm run eject`
+1. **Start the Application**: Launch the Classy Weather application on your local development server.
+2. **Search for Weather**: Use the search bar to find weather information for a specific city.
+3. **View Current Conditions**: Check the current weather details displayed on the main page.
+4. **Check the Forecast**: Access the extended weather forecast for the upcoming days.
+5. **Use Location Services**: Allow the app to detect and show weather information for your current location.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contributing
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Contributions are welcome! To contribute to the Classy Weather project:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. **Fork the Repository**: Create your own copy of the repository on GitHub.
+2. **Create a New Branch**: For your feature or bug fix.
+3. **Make Your Changes**: Implement and test your changes.
+4. **Commit Your Changes**: Save your changes with a descriptive commit message.
+5. **Push Your Changes**: Upload your changes to your forked repository.
+6. **Submit a Pull Request**: Propose your changes for merging into the main repository.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## License
 
-## Learn More
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contact
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+For any inquiries or support, feel free to contact the project maintainer:
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Youssef Khalifa
+- Email: devyoussefkhalifa
